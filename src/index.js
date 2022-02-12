@@ -13,6 +13,7 @@ const theme = extendTheme({
       200: "#323334",
       300: "rgba(0, 0, 0, 0.5)",
       400: "#A86A3D",
+      500: "#FFFFFF",
     },
   },
 });
